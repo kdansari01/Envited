@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  :root {
+    --bg-gradient: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    --text-gradient: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    --light-gray: #4F4F4F;
+    --secondary-gray: #828282;
+    --primary-font:#240D57;
+    --primary-radius:10px;
+    --primary-header:64px;
+    --primary-line-height:64px;
+    --body-bg:#DDDDDD;
+  }
+}
+
