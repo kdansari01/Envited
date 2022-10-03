@@ -103,7 +103,6 @@ export const Event = () => {
                     subHeaderName: "address",
                     onEdit,
                     editable,
-                    // subHeader: address,
                   }}
                 />
               </div>
